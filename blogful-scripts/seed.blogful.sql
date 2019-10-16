@@ -1,0 +1,22 @@
+INSERT INTO blogful_articles (title, date_published, content)
+VALUES
+    ('Article 1', '1851-10-18 00:00:01', 'Call me Ishmael.'),
+    ('Article 2', '1915-01-01 00:00:01', 'One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin.'),
+    ('Article 3', '1949-06-08 00:00:01', 'It was a bright cold day in April, and the clocks were striking thirteen.'),
+    ('Article 4', '1922-02-02 00:00:01', 'Stately, plump Buck Mulligan came from the stairhead, bearing a bowl of lather on which a mirror and a razor lay crossed.'),
+    ('Article 5', '1902-03-01 00:00:01', 'The Nellie, a cruising yawl, swung to her anchor without a flutter of the sails, and was at rest.'),
+    ('Article 6', '1869-03-18 00:00:01', '“Well, Prince, so Genoa and Lucca are now just family estates of the Buonapartes.”'),
+    ('Article 7', '1847-12-01 00:00:01', '1801.—I have just returned from a visit to my landlord—the solitary neighbour that I shall be troubled with.'),
+    ('Article 8', '1937-09-21 00:00:01', 'In a hole in the ground there lived a hobbit.'),
+    ('Article 9', '1605-01-16 00:00:01', 'In a village of La Mancha, the name of which I have no desire to call to mind, there lived not long since one of those gentlemen that keep a lance in the lance-rack, an old buckler, a lean hack, and a greyhound for coursing.'),
+    ('Article 10', '1320-04-22 00:00:01', 'Midway upon the journey of our life I found myself within a forest dark, For the straightforward pathway had been lost.'),
+    ('Article 11', '1877-04-29  00:00:01', 'Happy families are all alike; every unhappy family is unhappy in its own way.'),
+    ('Article 12', '1817-12-13 00:00:01', 'Sir Walter Elliot, of Kellynch Hall, in Somersetshire, was a man who, for his own amusement, never took up any book but the Baronetage; there he found occupation for an idle hour, and consolation in a distressed one; there his faculties were roused into admiration and respect, by contemplating the limited remnant of the earliest patents; there any unwelcome sensations, arising from domestic affairs changed naturally into pity and contempt as he turned over the almost endless creations of the last century; and there, if every other leaf were powerless, he could read his own history with an interest which never failed.'),
+    ('Article 13', '1839-09-01 00:00:01', 'DURING the whole of a dull, dark, and soundless day in the autumn of the year, when the clouds hung oppressively low in the heavens, I had been passing alone, on horseback, through a singularly dreary tract of country, and at length found myself, as the shades of the evening drew on, within view of the melancholy House of Usher.'),
+    ('Article 14', '1903-05-01 00:00:01', 'Buck did not read the newspapers, or he would have known that trouble was brewing, not alone for himself, but for every tide-water dog, strong of muscle and with warm, long hair, from Puget Sound to San Diego.'),
+    ('Article 15', '1667-05-27 00:00:01', 'Of Mans First Disobedience, and the Fruit Of that Forbidden Tree, whose mortal tast Brought Death into the World, and all our woe'),
+    ('Article 16', '1871-12-27 00:00:01', 'One thing was certain, that the white kitten had had nothing to do with it:—it was the black kitten’s fault entirely. For the white kitten had been having its face washed by the old cat for the last quarter of an hour (and bearing it pretty well, considering); so you see that it couldn’t have had any hand in the mischief.'),
+    ('Article 17', '1790-06-02 00:00:01', 'I have studied now Philosophy And Jurisprudence, Medicine,— And even, alas! Theology,— From end to end, with labor keen; And here, poor fool! with all my lore I stand, no wiser than before'),
+    ('Article 18', '1846-11-09 00:00:01', 'The thousand injuries of Fortunato I had borne as I best could, but when he ventured upon insult, I vowed revenge.'),
+    ('Article 19', '1781-06-30 00:00:01', 'In whatsoever mode, or by whatsoever means, our knowledge may relate to objects, it is at least quite clear that the only manner in which it immediately relates to them is by means of an intuition.'),
+    ('Article 20', '1953-10-19 00:00:01', 'It was a pleasure to burn');
